@@ -27,7 +27,7 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrogram
+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.21.zip
 python-dotenv
 python-magic
 python-telegram-bot==13.15
